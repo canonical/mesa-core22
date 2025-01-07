@@ -18,8 +18,6 @@ jobs:
         - amd64
         - armhf
         - arm64
-        - ppc64el
-        - s390x
 
     steps:
     - name: Check out code
